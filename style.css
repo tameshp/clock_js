@@ -1,0 +1,35 @@
+body {
+    background: black;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+   
+
+
+}
+/* #MyClockDisplay {
+    background-color: white ;
+  width: 300px;
+  border: 15px red;
+  padding: 50px;
+  margin: 20px;
+}*/
+
+header #container{
+    text-align: center;
+    color: red;
+}
+
+footer #branding{
+    text-align: end;
+    text-align-last: right;
+    color: royalblue;
+}
